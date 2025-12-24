@@ -1,0 +1,61 @@
+[
+  {
+    "id": "main",
+    "brandName": "iptv wykop​",
+    "tagline": "iptv wykop: Unlock a New World of Polish Entertainment",
+    "description": "iptv wykop offers a seamless streaming experience in Poland, blending top-tier quality with diverse channel options. Discover premium content with ease and watch your favorite Polish shows anytime, anywhere.",
+    "channelCount": 55000,
+    "vodCount": 90000,
+    "supportEmail": "support@example.com",
+    "primaryColor": "#3B82F6",
+    "secondaryColor": "#1E40AF",
+    "siteUrl": "https://iptv-wykop-.pages.dev",
+    "features": [
+      {
+        "title": "Vast Channel Selection",
+        "description": "Explore a wide range of channels that cater to diverse tastes. Whether it's sports, news, or entertainment, iptv wykop ensures you never miss your favorite content.",
+        "icon": "Tv"
+      },
+      {
+        "title": "On-Demand Movies",
+        "description": "Enjoy immediate access to the latest films and timeless classics. Our library is frequently updated, offering movies for every mood and preference, all at your fingertips.",
+        "icon": "Film"
+      },
+      {
+        "title": "High-Definition Streaming",
+        "description": "Experience visually stunning content without buffering. With iptv wykop, you get unparalleled picture quality, ensuring your entertainment is always crisp and clear.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Robust Security",
+        "description": "Your privacy is our priority. Our secure infrastructure provides you with a safe streaming environment, guarding your data with advanced security measures.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Global Access",
+        "description": "Stay connected to your favorite Polish content from anywhere in the world. Our service ensures uninterrupted access, making you feel at home, no matter where you are.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Flexible Watching",
+        "description": "With our advanced recording and playback features, you can watch your favorite shows and movies at your own pace, fitting your busy lifestyle seamlessly.",
+        "icon": "Clock"
+      },
+      {
+        "title": "Multi-Device Compatibility",
+        "description": "iptv wykop supports a variety of devices, including smartphones, tablets, and smart TVs, ensuring a smooth streaming experience across all your platforms.",
+        "icon": "Headphones"
+      },
+      {
+        "title": "Affordable Pricing",
+        "description": "Enjoy premium IPTV services at competitive rates. Our flexible pricing plans cater to different needs, making top-quality entertainment accessible for everyone.",
+        "icon": "CreditCard"
+      }
+    ],
+    "paymentSettings": {
+      "buttonText": "BUY NOW",
+      "paymentType": "paygate",
+      "paygateWalletAddress": "0x1e2c390ae5602f3662332061cae6c5658cd54e22"
+    }
+  }
+]

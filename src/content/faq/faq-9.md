@@ -1,7 +1,7 @@
 ---
-question: "What type of customer support does iptv wykop provide?"
+question: "Jak wygląda obsługa klienta w iptv wykop?"
 category: "support"
 order: 9
 ---
 
-IPTV Wykop offers dedicated customer support to address subscriber concerns and ensure a seamless viewing experience. Support channels may include email, live chat, and phone support, allowing users to choose the method most convenient for them. Customer service representatives are equipped to handle technical issues, billing inquiries, and service-related questions, striving to provide timely and effective resolutions to any problems encountered by subscribers.
+IPTV wykop stawia na jakość obsługi klienta, oferując wsparcie poprzez różne kanały komunikacji, w tym e-mail, czat na żywo oraz telefon. Zespół obsługi klienta jest przeszkolony, aby pomóc w rozwiązywaniu problemów technicznych, odpowiedzieć na pytania związane z płatnościami oraz udzielić wsparcia w kwestiach dotyczących korzystania z usługi. Dzięki temu użytkownicy mogą liczyć na szybkie i efektywne rozwiązanie wszelkich problemów związanych z korzystaniem z iptv wykop.

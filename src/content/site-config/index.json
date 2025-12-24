@@ -45,12 +45,14 @@
     "primaryColor": "#3b82f6",
     "secondaryColor": "#8b5cf6",
     "templateId": "classic",
-    "defaultLanguage": "en",
+    "defaultLanguage": "pl",
     "enabledLanguages": [
-      "en"
+      "pl",
+      "en",
+      "es"
     ],
     "responseTime": "under 2 hours",
-    "organizationDescription": "iptv wykop offers a seamless streaming experience in Poland, blending top-tier quality with diverse channel options. Discover premium content with ease and watch your favorite Polish shows anytime, anywhere.",
+    "organizationDescription": "iptv wykop​ to niezrównana platforma IPTV, oferująca najwyższej jakości kanały telewizyjne oraz filmy wprost do Twojego domu. Odkryj nową jakość oglądania dzięki iptv wykop​.",
     "paymentSettings": {
       "buttonText": "BUY NOW",
       "paymentType": "paygate",

@@ -2,8 +2,8 @@
   {
     "id": "main",
     "brandName": "iptv wykop​",
-    "tagline": "iptv wykop: Unlock a New World of Polish Entertainment",
-    "description": "iptv wykop offers a seamless streaming experience in Poland, blending top-tier quality with diverse channel options. Discover premium content with ease and watch your favorite Polish shows anytime, anywhere.",
+    "tagline": "iptv wykop​ - Twoja nieskończona rozrywka na wyciągnięcie ręki!",
+    "description": "iptv wykop​ to niezrównana platforma IPTV, oferująca najwyższej jakości kanały telewizyjne oraz filmy wprost do Twojego domu. Odkryj nową jakość oglądania dzięki iptv wykop​.",
     "channelCount": 55000,
     "vodCount": 90000,
     "supportEmail": "support@example.com",
@@ -12,43 +12,43 @@
     "siteUrl": "https://iptv-wykop-.pages.dev",
     "features": [
       {
-        "title": "Vast Channel Selection",
-        "description": "Explore a wide range of channels that cater to diverse tastes. Whether it's sports, news, or entertainment, iptv wykop ensures you never miss your favorite content.",
+        "title": "Oglądaj na żywo",
+        "description": "Zapewniamy dostęp do setek kanałów telewizyjnych na żywo z całego świata. Dzięki iptv wykop​ możesz cieszyć się ulubionymi programami zawsze i wszędzie.",
         "icon": "Tv"
       },
       {
-        "title": "On-Demand Movies",
-        "description": "Enjoy immediate access to the latest films and timeless classics. Our library is frequently updated, offering movies for every mood and preference, all at your fingertips.",
+        "title": "Bogata biblioteka filmów",
+        "description": "Oferujemy szeroką bibliotekę filmów i seriali, od najnowszych hitów po klasyki kina. Z iptv wykop​ każda wieczorna rozrywka to wyjątkowe doświadczenie.",
         "icon": "Film"
       },
       {
-        "title": "High-Definition Streaming",
-        "description": "Experience visually stunning content without buffering. With iptv wykop, you get unparalleled picture quality, ensuring your entertainment is always crisp and clear.",
+        "title": "Ultra szybki streaming",
+        "description": "Z naszym błyskawicznym strumieniowaniem doświadczysz płynnego i nieprzerywanego oglądania. iptv wykop​ gwarantuje najwyższą jakość obrazu bez zakłóceń.",
         "icon": "Zap"
       },
       {
-        "title": "Robust Security",
-        "description": "Your privacy is our priority. Our secure infrastructure provides you with a safe streaming environment, guarding your data with advanced security measures.",
+        "title": "Bezpieczeństwo i niezawodność",
+        "description": "Twoje bezpieczeństwo jest dla nas priorytetem. Korzystając z iptv wykop​, masz pewność, że oglądasz w bezpiecznym i stabilnym środowisku.",
         "icon": "Shield"
       },
       {
-        "title": "Global Access",
-        "description": "Stay connected to your favorite Polish content from anywhere in the world. Our service ensures uninterrupted access, making you feel at home, no matter where you are.",
+        "title": "Zasięg międzynarodowy",
+        "description": "Sięgnij po różnorodność z iptv wykop​! Oglądaj kanały z każdego zakątka świata, z najróżniejszych regionów i kultur. Odkrywaj globalną rozrywkę bez granic.",
         "icon": "Globe"
       },
       {
-        "title": "Flexible Watching",
-        "description": "With our advanced recording and playback features, you can watch your favorite shows and movies at your own pace, fitting your busy lifestyle seamlessly.",
+        "title": "Programy na żądanie",
+        "description": "Oglądaj, co chcesz i kiedy chcesz. Nasza funkcja programów na żądanie pozwala na elastyczne oglądanie ulubionych treści zgodnie z Twoim harmonogramem.",
         "icon": "Clock"
       },
       {
-        "title": "Multi-Device Compatibility",
-        "description": "iptv wykop supports a variety of devices, including smartphones, tablets, and smart TVs, ensuring a smooth streaming experience across all your platforms.",
+        "title": "Doskonała jakość dźwięku",
+        "description": "Przeżyj kino w domu dzięki wyjątkowej jakości dźwięku. iptv wykop​ zapewnia czyste i realistyczne brzmienie, które wzbogaci Twoje oglądanie.",
         "icon": "Headphones"
       },
       {
-        "title": "Affordable Pricing",
-        "description": "Enjoy premium IPTV services at competitive rates. Our flexible pricing plans cater to different needs, making top-quality entertainment accessible for everyone.",
+        "title": "Przystępne ceny",
+        "description": "Wybierz iptv wykop​ i korzystaj z naszych usług bez obciążania Twojego budżetu. Nasze konkurencyjne ceny zadowolą nawet najbardziej wymagających klientów.",
         "icon": "CreditCard"
       }
     ],

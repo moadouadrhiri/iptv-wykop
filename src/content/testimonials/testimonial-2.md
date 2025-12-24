@@ -1,7 +1,7 @@
 ---
 name: "Anna Nowak"
-location: "Kraków, Poland"
-rating: 5
+location: "Kraków, Polska"
+rating: 4
 ---
 
-I absolutely love watching movies, and iptv wykop offers an incredible library of films from all over the world. The streaming is seamless, and the picture quality is top-notch. It's like having a cinema in my living room!
+Jestem kinomaniakiem i muszę przyznać, że oferta filmowa IPTV Wykop jest imponująca. Od klasyków po najnowsze hity – wszystko w jednym miejscu. Streamowanie działa bez zarzutu, a jakość HD robi wrażenie. Czasami zdarzają się minimalne opóźnienia, ale to nie przeszkadza w cieszeniu się filmami!

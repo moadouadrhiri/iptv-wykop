@@ -1,7 +1,7 @@
 ---
-question: "What devices are compatible with iptv wykop?"
+question: "Z jakimi urządzeniami kompatybilna jest usługa iptv wykop?"
 category: "technical"
 order: 3
 ---
 
-IPTV Wykop is compatible with a range of devices to offer flexible viewing options to its users in Poland. This includes Smart TVs, Android and iOS smartphones and tablets, desktop computers, laptops, and streaming devices like Amazon Firestick, Roku, and Apple TV. The service may require users to download a specific application or use a web browser to access the content, ensuring they can watch their favorite television programs on the platform they prefer.
+IPTV wykop jest kompatybilna z szeroką gamą urządzeń, co pozwala użytkownikom na elastyczne korzystanie z usługi. Obsługiwane są między innymi telewizory Smart TV, komputery, laptopy, tablety, a także smartfony z systemem Android i iOS. Dodatkowo, można korzystać z urządzeń do strumieniowania takich jak Amazon Fire Stick czy Apple TV. Dzięki tak bogatej kompatybilności, użytkownicy mogą łatwo dopasować usługę do preferowanego przez siebie sprzętu.

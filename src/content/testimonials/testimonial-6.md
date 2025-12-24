@@ -1,7 +1,7 @@
 ---
-name: "Ewa Wiśniewska"
-location: "Łódź, Poland"
-rating: 5
+name: "Łukasz Nowicki"
+location: "Łódź, Polska"
+rating: 4
 ---
 
-iptv wykop is truly the best value for money. The breadth of channels and features is impressive for the price point. I feel like I've unlocked endless entertainment without breaking the bank. It's totally worth it!
+Stosunek jakości do ceny w IPTV Wykop jest naprawdę świetny. Za niewielką opłatą mam dostęp do bogatej oferty kanałów, co jest nie do przecenienia. Czasem zdarzają się sporadyczne przerwy, ale ogólnie usługa jest więcej niż warta swojej ceny. Szczerze polecam każdemu, kto szuka solidnego źródła rozrywki.

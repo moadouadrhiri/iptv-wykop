@@ -1,30 +1,39 @@
 ---
-title: "Contact IPTV Wykop Support"
-description: "Reach out to IPTV Wykop support. We are here to assist with your streaming needs anytime."
+title: "Skontaktuj się z nami - iptv wykop"
+description: "Dowiedz się, jak skontaktować się z iptv wykop. Jesteśmy tutaj, aby pomóc!"
 slug: "contact"
 ---
 
-## Get In Touch with IPTV Wykop
+## Skontaktuj się z iptv wykop
 
-Reach out to us for any inquiries or support you need. At IPTV Wykop, we prioritize your satisfaction and ease of access.
+### Wprowadzenie
 
-### Contact Methods
-- **Email**: [support@iptvwykop.pl](mailto:support@iptvwykop.pl)
-- **Live Chat**: Available on our website for instant help.
-- **WhatsApp**: Message us at +48 123 456 789 for swift support.
-- **Telegram**: Join our channel for updates and support questions.
+Zawsze chętnie służymy pomocą i odpowiadamy na pytania dotyczące naszej usługi. Jesteśmy dostępni przez różne kanały komunikacji, aby zapewnić szybką i efektywną pomoc.
 
-### Support Hours
-Our dedicated team is available 24/7. Typical response time within an hour during peak hours, ensuring you're never left waiting.
+### Metody kontaktu
+
+- **Email:** kontakt@iptvwykop.pl
+- **Czat na żywo:** Dostępny na naszej stronie w prawym dolnym rogu
+- **WhatsApp:** +48 123 456 789
+- **Telegram:** @iptv_wykop_support
+
+### Godziny wsparcia i czas reakcji
+
+Nasz zespół obsługi klienta działa od poniedziałku do piątku w godzinach 8:00-22:00, a także w weekendy od 10:00-18:00. Staramy się odpowiadać na zapytania w ciągu 1-2 godzin.
 
 ### Mini FAQ
-1. **What is IPTV?**
-   IPTV stands for Internet Protocol Television, which allows you to stream live TV channels over the internet.
-2. **How can I subscribe?**
-   Visit our website and select the plan that suits your viewing needs.
-3. **What devices can I use?**
-   You can use IPTV Wykop on smart TVs, tablets, smartphones, and computers.
-4. **Is there a free trial?**
-   Yes, we offer a 7-day free trial for new users to explore our services.
-5. **How do I troubleshoot issues?**
-   Refer to our detailed Help Center or contact our support team for personalized assistance.
+
+1. **Jak skonfigurować usługę IPTV?** 
+   Po zakupie otrzymasz instrukcję krok po kroku mailem.
+
+2. **Czy mogę przetestować usługę?** 
+   Tak, oferujemy 24-godzinny darmowy okres próbny.
+
+3. **Czy mogę anulować subskrypcję?** 
+   Tak, proces anulacji opisany jest w naszym FAQ na stronie.
+
+4. **Czy IPTV wymaga specjalnego sprzętu?** 
+   Nie, usługa działa na większości nowoczesnych urządzeń z możliwością instalacji aplikacji IPTV.
+
+5. **Jak mogę zaktualizować moje dane?** 
+   Aktualizacji można dokonać logując się do panelu klienta na naszej stronie.

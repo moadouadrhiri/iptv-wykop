@@ -1,7 +1,7 @@
 ---
-name: "Piotr Lewandowski"
-location: "Poznań, Poland"
+name: "Katarzyna Krawczyk"
+location: "Poznań, Polska"
 rating: 5
 ---
 
-The customer support team at iptv wykop is exceptional. I had a minor issue setting up the service, and they were quick to help me solve it. The support team is friendly and knowledgeable, ensuring a hassle-free experience.
+Muszę pochwalić obsługę klienta IPTV Wykop. Miałam pewne problemy z konfiguracją, ale pomocna ekipa szybko rozwiązała mój problem. Odpowiedzi na moje pytania były bardzo profesjonalne i szczegółowe. Z takim wsparciem technicznym można korzystać z każdej usługi bez obaw!

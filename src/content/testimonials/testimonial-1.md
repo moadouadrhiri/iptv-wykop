@@ -1,7 +1,7 @@
 ---
-name: "Michał Kowalski"
-location: "Warsaw, Poland"
+name: "Marcin Kowalski"
+location: "Warszawa, Polska"
 rating: 5
 ---
 
-As a sports fan, iptv wykop is a game-changer! I never miss a match, whether it's football or volleyball. The stream quality is excellent, making me feel like I'm right in the stadium. Highly recommend for any sports enthusiast.
+Jako zapalony miłośnik sportu, nie mogłem znaleźć lepszej platformy do oglądania meczów na żywo. IPTV Wykop oferuje szeroki wybór kanałów sportowych, dzięki czemu nie przegapiam żadnego ważnego wydarzenia. Jakość obrazu jest rewelacyjna, nawet podczas transmisji na żywo. Polecam każdemu, kto kocha sport!

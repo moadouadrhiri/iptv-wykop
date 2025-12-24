@@ -1,7 +1,7 @@
 ---
-name: "Karolina Jankowska"
-location: "Wrocław, Poland"
-rating: 4
+name: "Tomasz Wiśniewski"
+location: "Wrocław, Polska"
+rating: 5
 ---
 
-The versatility of iptv wykop amazed me. It works perfectly on my smartphone, tablet, and TV. No matter where I am or what device I use, the viewing experience is consistent and smooth.
+IPTV Wykop świetnie działa na wszystkich moich urządzeniach, od telewizora, przez laptopa, aż po smartfon. Integracja z różnymi platformami jest bezproblemowa, a jakość obrazów na każdym z nich - wzorowa. Przełączanie między kanałami jest szybkie, co sprawia, że korzystanie z usługi to czysta przyjemność.

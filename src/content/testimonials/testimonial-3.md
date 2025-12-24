@@ -1,7 +1,7 @@
 ---
-name: "Tomasz Zieliński"
-location: "Gdańsk, Poland"
+name: "Małgorzata Zielińska"
+location: "Gdańsk, Polska"
 rating: 5
 ---
 
-iptv wykop is perfect for our family. It has something for everyone—kids' shows, documentaries, and my wife's favorite cooking channels. It really brings us all together to enjoy some quality family time.
+Nasza cała rodzina korzysta z IPTV Wykop i jesteśmy bardzo zadowoleni. Wybór kanałów dla dzieci jest świetny, a dla dorosłych mamy dostęp do rozrywki na najwyższym poziomie. To fantastyczne rozwiązanie na wieczory w gronie bliskich. Od czasu do czasu oglądamy wspólnie programy przyrodnicze i edukacyjne.
